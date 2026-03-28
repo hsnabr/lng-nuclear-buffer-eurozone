@@ -1,0 +1,7 @@
+variable,adf_p_level,kpss_p_level,adf_p_diff,integration
+LNG_SUPPLY,1.0,0.01,0.0,I(1)
+IT_GAS_ELEC,0.891,0.041,0.0,I(1)
+IT_IP,0.139,0.1,0.0,unclear
+FR_IP,0.059,0.1,0.0,unclear
+FR_NUC,0.028,0.1,0.368,I(0)
+EZ_HICP,0.652,0.035,0.013,I(1)

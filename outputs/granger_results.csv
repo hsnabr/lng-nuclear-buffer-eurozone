@@ -1,0 +1,5 @@
+cause,effect,p_value,significant,label
+LNG_SUPPLY,IT_GAS_ELEC,0.027,True,Step 1: supply shock → Italian gas-fired power
+IT_GAS_ELEC,IT_IP,0.012,True,Step 2: gas power    → Italian industry        
+LNG_SUPPLY,IT_IP,0.027,True,Direct: supply shock → Italian industry        
+LNG_SUPPLY,FR_IP,0.085,False,Asymmetry: supply shock → French industry      
